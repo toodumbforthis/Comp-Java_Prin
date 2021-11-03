@@ -32,7 +32,7 @@ public class deck {
         return deck;
     }
 
-    public void suflle() {
+    public void shuflle() {
         Collections.shuffle(deck);
         System.out.println("Se mezcló el Deck.");
         for (Object elemento : deck) {
