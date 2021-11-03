@@ -11,7 +11,7 @@ public class Main {
             System.out.print(elemento + " / ");
         }
         System.out.println("\n");
-        mazo.suflle();
+        mazo.shuflle();
         System.out.println("\n");
         mazo.head();
         System.out.println("\n");
